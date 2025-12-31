@@ -39,16 +39,21 @@
 }
 
 .pub-entry {
-  overflow: hidden;   // float 정리 (필수)
-  margin-bottom: 1.5em;
+  overflow: hidden;
+  margin-bottom: 2em;
 }
 
 .pub-img {
   float: left;
-  width: 200px;       //
+  width: 160px !important;
+  max-width: 160px !important;
+  height: 110px !important;
+  object-fit: contain;
   margin-right: 20px;
   border-radius: 6px;
+  background: #f5f5f5;
 }
+
 
 .pub-text {
   overflow: hidden;   // 글이 이미지 옆으로 붙게 함
