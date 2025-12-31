@@ -26,38 +26,64 @@ My research focuses on computer vision, particularly in the field of depth perce
 
 ---
 
-**BAC-GCN: Background-Aware CLIP-GCN Framework for Unsupervised Multi-Label Classification**  
-Yonghyeon Jo, **Janghyun Kim**, and Jinsun Park  
-*ACM International Conference on Multimedia (**ACM MM**), 2025*  
-[[Paper]](https://dl.acm.org/doi/abs/10.1145/3746027.3755253)
+<div class="pub-entry">
+  <img src="/images/BACGCN.png" class="pub-img">
 
----
+  <div class="pub-text">
+    <strong>BAC-GCN: Background-Aware CLIP-GCN Framework for Unsupervised Multi-Label Classification</strong><br>
+    Yonghyeon Jo, <strong>Janghyun Kim</strong>, and Jinsun Park<br>
+    <em>ACM International Conference on Multimedia (ACM MM), 2025</em><br>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755253">Paper</a>
+  </div>
+</div>
 
-**Exploiting Cross-modal Cost Volume for Multi-sensor Depth Estimation**  
-**Janghyun Kim**, Ukcheol Shin, Seokyong Heo, and Jinsun Park  
-*Asian Conference on Computer Vision (**ACCV**), 2024*  
-[[Paper]](https://openaccess.thecvf.com/content/ACCV2024/html/Kim_Exploiting_Cross-modal_Cost_Volume_for_Multi-sensor_Depth_Estimation_ACCV_2024_paper.html)
 
----
+<div class="pub-entry">
+  <img src="/images/2024_ACCV.png" class="pub-img">
 
-**ADNet: Non-Local Affinity Distillation Network for Lightweight Depth Completion with Guidance from Missing LiDAR Points**  
-**Janghyun Kim**, Jeonghyun Noh, Mingyu Jeong, Wonju Lee, Yeonchool Park, and Jinsun Park  
-*IEEE Robotics and Automation Letters (**RA-L**), 2024*  
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/10598333)
+  <div class="pub-text">
+    <strong>Exploiting Cross-modal Cost Volume for Multi-sensor Depth Estimation</strong><br>
+    <strong>Janghyun Kim</strong>, Ukcheol Shin, Seokyong Heo, and Jinsun Park<br>
+    <em>Asian Conference on Computer Vision (ACCV), 2024</em><br>
+    <a href="https://openaccess.thecvf.com/content/ACCV2024/html/Kim_Exploiting_Cross-modal_Cost_Volume_for_Multi-sensor_Depth_Estimation_ACCV_2024_paper.html">Paper</a>
+  </div>
+</div>
 
+
+<div class="pub-entry">
+  <img src="/images/ADNet.png" class="pub-img">
+
+  <div class="pub-text">
+    <strong>ADNet: Non-Local Affinity Distillation Network for Lightweight Depth Completion with Guidance from Missing LiDAR Points</strong><br>
+    <strong>Janghyun Kim</strong>, Jeonghyun Noh, Mingyu Jeong, Wonju Lee, Yeonchool Park, and Jinsun Park<br>
+    <em>IEEE Robotics and Automation Letters (RA-L), 2024</em><br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10598333">Paper</a>
+  </div>
+</div>
 
 ---
 
 ## Under Review
 
-**All-day Depth Completion via Thermal-LiDAR Fusion**  
-**Janghyun Kim**, Minseong Kweon, and Jinsun Park  
-*arXiv, 2025*  
-[[Paper]](https://arxiv.org/abs/2504.02356)
+<div class="pub-entry">
+  <img src="/images/2025_CoPS.gif" class="pub-img">
 
----
+  <div class="pub-text">
+    <strong>All-day Depth Completion via Thermal-LiDAR Fusion</strong><br>
+    <strong>Janghyun Kim</strong>, Minseong Kweon, and Jinsun Park<br>
+    <em>arXiv, 2025</em><br>
+    <a href="https://arxiv.org/abs/2504.02356">Paper</a>
+  </div>
+</div>
 
-**MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis**  
-Minseong Kweon†, **Janghyun Kim†**, and Jinsun Park († Equal Contribution)  
-*arXiv, 2025* ($^{\dagger}$ Equal contribution)  
-[[Paper]](https://arxiv.org/abs/2511.22997)
+
+<div class="pub-entry">
+  <img src="/images/MrGS.png" class="pub-img">
+
+  <div class="pub-text">
+    <strong>MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis</strong><br>
+    Minseong Kweon<sup>†</sup>, <strong>Janghyun Kim</strong><sup>†</sup>, and Jinsun Park<br>
+    <em>arXiv, 2025</em> (<sup>†</sup>Equal contribution)<br>
+    <a href="https://arxiv.org/abs/2511.22997">Paper</a>
+  </div>
+</div>
