@@ -52,6 +52,6 @@ Yonghyeon Jo, **Janghyun Kim**, and Jinsun Park
 ---
 
 **MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis**  
-Minseong Kweon$^{\dagger}$, **Janghyun Kim$^{\dagger}$**, and Jinsun Park  
+Minseong Kweon†, **Janghyun Kim†**, and Jinsun Park († Equal Contribution)  
 *arXiv, 2025* ($^{\dagger}$ Equal contribution)  
 [[Paper]](https://arxiv.org/abs/2511.22997)
