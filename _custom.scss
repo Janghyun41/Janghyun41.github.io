@@ -1,0 +1,39 @@
+/* Publication layout */
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.pub-thumb img {
+  width: 160px;      /* 썸네일 크기 */
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.pub-info {
+  flex: 1;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 4px;
+}
+
+.pub-authors {
+  margin-bottom: 2px;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: #555;
+  margin-bottom: 4px;
+}
+
+.pub-links a {
+  text-decoration: none;
+  color: #1a73e8;
+}
