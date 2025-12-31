@@ -13,8 +13,6 @@ My research focuses on computer vision, particularly in the field of depth perce
 
 ## Publications
 
-<div class="publication-list">
-
 **CAR-Stereo: Confidence-aware Adaptive Disparity Refinement for Real-time Stereo Matching**  
 Chanil Park, **Janghyun Kim**, Minseong Kweon, and Jinsun Park  
 *IEEE Robotics and Automation Letters (**RA-L**), 2025*  
@@ -41,7 +39,6 @@ Yonghyeon Jo, **Janghyun Kim**, and Jinsun Park
 *IEEE Robotics and Automation Letters (**RA-L**), 2024*  
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/10598333)
 
-</div>
 
 ---
 
