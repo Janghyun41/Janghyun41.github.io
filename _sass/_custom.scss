@@ -38,3 +38,19 @@
   color: #1a73e8;
 }
 
+.pub-entry {
+  overflow: hidden;   // float 정리 (필수)
+  margin-bottom: 1.5em;
+}
+
+.pub-img {
+  float: left;
+  width: 160px;       // Ukcheol Shin과 거의 동일
+  margin-right: 20px;
+  border-radius: 6px;
+}
+
+.pub-text {
+  overflow: hidden;   // 글이 이미지 옆으로 붙게 함
+  font-size: 0.95em;
+}
