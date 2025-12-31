@@ -30,7 +30,7 @@ author:
   location         : "Busan, Korea"
   employer         : "Pusan National University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jangjoa41@pusan.ac.kr" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=ko&view_op=list_works&gmla=AElLoL3oombSbuvKsW_eDOxuQ7uN7EnGtZUf7borR-csVkgNhtBnPklDklTvoG5xDbgwB-aDlpoWv5cKQR_41Eec7Pemu7wgC_bimDnN1uVdJqVqjimxlSBYF8tcgzk&user=ZZ8CC1QAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  # orcid            : ""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -87,9 +87,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'International Journals'    
   conferences:
-    title: 'Conference Papers'
+    title: 'International Conferences'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -222,16 +222,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -245,7 +245,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
