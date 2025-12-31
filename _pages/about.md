@@ -51,7 +51,7 @@ My research focuses on computer vision, particularly in the field of depth perce
 
 
 <div class="pub-entry">
-  <img src="/images/ADNet.png" class="pub-img">
+  <img src="/images/ADnet.png" class="pub-img">
 
   <div class="pub-text">
     <strong>ADNet: Non-Local Affinity Distillation Network for Lightweight Depth Completion with Guidance from Missing LiDAR Points</strong><br>
@@ -61,7 +61,6 @@ My research focuses on computer vision, particularly in the field of depth perce
   </div>
 </div>
 
----
 
 ## Under Review
 
