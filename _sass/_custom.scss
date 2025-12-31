@@ -45,14 +45,15 @@
 
 .pub-img {
   float: left;
-  width: 160px !important;
-  max-width: 160px !important;
-  height: 110px !important;
+  width: 200px !important;
+  height: 140px !important;
+  max-width: 200px !important;
   object-fit: contain;
   margin-right: 20px;
   border-radius: 6px;
-  background: #f5f5f5;
+  background: transparent;
 }
+
 
 
 .pub-text {
