@@ -23,7 +23,7 @@ repository               : "Janghyun41/janghyun41.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "janghyun_kim_profile.png"
+  avatar           : "avatar.png"
   name             : "Janghyun Kim"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student, Majored in AI"
@@ -31,6 +31,7 @@ author:
   employer         : "Pusan National University"
   uri              : # URL
   email            : "jangjoa41@pusan.ac.kr" 
+  CV: "janghyun_kim_CV.pdf"
 
   # Academic websites
   academia         : # URL
