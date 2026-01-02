@@ -12,6 +12,7 @@ My research focuses on computer vision, particularly in the field of depth perce
 ---
 
 # Publications
+---
 
 <div class="pub-entry">
   <img src="/images/CAR-Stereo_compress.gif" class="pub-img">
@@ -24,7 +25,6 @@ My research focuses on computer vision, particularly in the field of depth perce
   </div>
 </div>
 
----
 
 <div class="pub-entry">
   <img src="/images/BACGCN.png" class="pub-img">
