@@ -14,7 +14,7 @@ My research focuses on computer vision, particularly in the field of depth perce
 # Publications
 
 <div class="pub-entry">
-  <img src="/images/RAL26_CARStereo.png" class="pub-img">
+  <img src="/images/CAR-Stereo_compress.gif" class="pub-img">
 
   <div class="pub-text">
     <strong>CAR-Stereo: Confidence-aware Adaptive Disparity Refinement for Real-time Stereo Matching</strong><br>
