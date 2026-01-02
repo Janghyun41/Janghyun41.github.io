@@ -86,3 +86,10 @@ My research focuses on computer vision, particularly in the field of depth perce
     <a href="https://arxiv.org/abs/2511.22997">Paper</a>
   </div>
 </div>
+
+
+# Awards
+
+**Best Poster Award**, 'Thermal Infrared in Robotics' workshop @ ICRA 2025, May 2025
+
+**Fellowship for Grad Student**, Pusan National Univerrsity, May 2024
