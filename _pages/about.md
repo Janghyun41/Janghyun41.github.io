@@ -70,8 +70,8 @@ My research focuses on computer vision, particularly in the field of depth perce
 
   <div class="pub-text">
     <strong>All-day Depth Completion via Thermal-LiDAR Fusion</strong><br>
-    <strong>Janghyun Kim</strong>, Minseong Kweon, and Jinsun Park<br>
-    <em>arXiv, 2025</em><br>
+    <strong>Janghyun Kim</strong>, Minseong Kweon, Jinsun Park*, and Ukcheol Shin*<br>
+    <em>arXiv, 2025</em> (* Corresponding author)<br>
     <a href="https://arxiv.org/abs/2504.02356">[Paper]</a>
   </div>
 </div>
@@ -82,8 +82,8 @@ My research focuses on computer vision, particularly in the field of depth perce
 
   <div class="pub-text">
     <strong>MrGS: Multi-modal Radiance Fields with 3D Gaussian Splatting for RGB-Thermal Novel View Synthesis</strong><br>
-    Minseong Kweon<sup>†</sup>, <strong>Janghyun Kim</strong><sup>†</sup>, and Jinsun Park<br>
-    <em>arXiv, 2025</em> (<sup>†</sup>Equal contribution)<br>
+    Minseong Kweon<sup>†</sup>, <strong>Janghyun Kim</strong><sup>†</sup>, Ukcheol Shin, and Jinsun Park<br>
+    <em>arXiv, 2025</em> (<sup>†</sup> Equal contribution)<br>
     <a href="https://arxiv.org/abs/2511.22997">[Paper]</a>
   </div>
 </div>
